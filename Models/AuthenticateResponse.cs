@@ -1,6 +1,7 @@
-﻿using Entities.Models;
+﻿
+using Entities.Models;
 
-namespace Test.Models
+namespace Models
 {
     public class AuthenticateResponse
     {

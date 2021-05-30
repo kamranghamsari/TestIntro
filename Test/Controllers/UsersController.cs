@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Models.Models;
 using System.Threading.Tasks;
-using Test.Models;
 using Test.Services;
 
 namespace Test.Controllers

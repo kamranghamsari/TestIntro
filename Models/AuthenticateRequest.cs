@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Test.Models
+namespace Models.Models
 {
     public class AuthenticateRequest
     {
